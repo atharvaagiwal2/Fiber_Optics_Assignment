@@ -7,6 +7,4 @@ xlabel('V >>>>>')
 ylabel('b >>>>>')
 grid on
 legend('LP01 Mode')
-title({'Plot of the normalized propagation constant b', ...
-'as a function of the normalized frequency parameter V', ...
- 'for fundamental HE11 mode (LP01) of a SI fiber'})
+title({'Plot of the normalized propagation constant b','as a function of the normalized frequency parameter V','for fundamental HE11 mode (LP01) of a SI fiber'})
