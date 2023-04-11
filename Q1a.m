@@ -42,7 +42,5 @@ yticks(0:10)
 xlabel('ua (rad)')
 ylabel('wa (rad)')
 legend('Symmetric modes','Antisymmetric modes')
-title({'Plot for transcendental equation of TE modes', ...
- '( both symmetric and anti-symmetric)', ...
-'of a symmetric step-index planar slab waveguide.'})
+title({'Plot for transcendental equation of TE modes', '( both symmetric and anti-symmetric)','of a symmetric step-index planar slab waveguide.'})
 axis([0 10 0 10])
